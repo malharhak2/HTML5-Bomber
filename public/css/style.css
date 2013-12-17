@@ -1,0 +1,10 @@
+body {
+	background-color : black;
+}
+#mainContainer {
+	width : 800px;
+	height : 600px;
+	margin-left : auto;
+	margin-right : auto;
+	border : 1px solid black;
+}
